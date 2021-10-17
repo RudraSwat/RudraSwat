@@ -20,9 +20,10 @@
 
 <details>
   <summary>📫 How to reach me</summary>
-  <li><a href="https://github.com/RudraSwat" target="_blank" rel="noopener noreferrer">:octocat: Github@AndusDEV</a></li>
-  <li><a href="https://github.com/rswat09" target="_blank" rel="noopener noreferrer">:octocat: Github@AndusDEV</a></li>
-  <li><a href="https://twitter.com/RudraSaraswat1" target="_blank" rel="noopener noreferrer">:bird: Twitter@MrAnduss</a>
+  <li><a href="https://github.com/RudraSwat" target="_blank" rel="noopener noreferrer">:octocat: GitHub @RudraSwat</a></li>
+  <li><a href="https://github.com/rswat09" target="_blank" rel="noopener noreferrer">:octocat: GitLab @rswat09</a></li>
+  <li><a href="https://twitter.com/RudraSaraswat1" target="_blank" rel="noopener noreferrer">:bird: Twitter @RudraSaraswat1</a>
+  <li><a href="https://t.me/rs2009" target="_blank" rel="noopener noreferrer">:bird: Telegram @rs2009</a>
 </details>
   
 <br/>
