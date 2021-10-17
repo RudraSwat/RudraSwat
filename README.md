@@ -10,7 +10,6 @@
 <p align='center'>
   Things I use<br>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-E34F26?style=flat&logo=css3&color=blue&logoColor=white"/><br>
